@@ -1,6 +1,6 @@
 # This his the main configuration file. There are also environment specific configuration stored in the /config directory.
 
-baseURL                = "https://gohugo.io/"
+baseURL                = "http://example.org/"
 defaultContentLanguage = "en"
 enableEmoji            = true
 googleAnalytics        = "G-MBZGKNMDWC"
